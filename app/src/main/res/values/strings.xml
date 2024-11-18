@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">p01Suma_AdrianTomas</string>
+    <string name="PrimerNumero">First Number: </string>
+    <string name="SegundoNumero">Second Number: </string>
+    <string name="Calcular">Calculate</string>
+</resources>

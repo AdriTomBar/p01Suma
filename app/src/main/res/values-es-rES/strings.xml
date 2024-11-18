@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">p01Suma_AdrianTomas</string>
+    <string name="PrimerNumero">Primer Número: </string>
+    <string name="SegundoNumero">Segundo Número: </string>
+    <string name="Calcular">Calcular</string>
+</resources>
