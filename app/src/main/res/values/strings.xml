@@ -3,4 +3,5 @@
     <string name="PrimerNumero">First Number: </string>
     <string name="SegundoNumero">Second Number: </string>
     <string name="Calcular">Calculate</string>
+    <string name="Salir">Exit</string>
 </resources>
